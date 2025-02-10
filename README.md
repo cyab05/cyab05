@@ -1,6 +1,6 @@
 # About me
 
-### Recent graduate from the University of Washington with a BS in Physics and Astronomy
+### Post Bacc at the University of Washington with a BS in Physics and Astronomy
 
 - 🔭 I’m currently working on an AI assistant for Vera C. Rubin Observatory documentation at the University of Washington
 - 🌱 I’m currently learning how to use weaviate and RAG to tailer LLMs for specific use cases
